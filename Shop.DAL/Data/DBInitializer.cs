@@ -84,6 +84,11 @@ namespace Shop.DAL.Data
             context.Add(po2);
             context.Add(po3);
 
+            context.AddRange(
+                new User { UserName="micclo",Password = "test", CustomerId=1},
+                new User { UserName="jos",Password = "test", CustomerId=2}
+                );
+
 
             context.SaveChanges();
         }

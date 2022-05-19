@@ -17,6 +17,7 @@ namespace Shop.DAL.Data
         public DbSet<Order> Orders { get; set; }
         public DbSet<Product> Products { get; set; }
         public DbSet<ProductOrder> ProductOrders { get; set; }
+        public DbSet<User> Users { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -24,6 +25,7 @@ namespace Shop.DAL.Data
             modelBuilder.Entity<Order>().ToTable("Order");
             modelBuilder.Entity<Product>().ToTable("Product");
             modelBuilder.Entity<ProductOrder>().ToTable("ProductOrder");
+            modelBuilder.Entity<User>().ToTable("User");
         }
     }
 }
