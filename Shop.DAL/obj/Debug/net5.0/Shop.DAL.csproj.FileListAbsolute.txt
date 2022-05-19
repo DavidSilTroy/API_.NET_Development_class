@@ -1,0 +1,15 @@
+C:\Users\david\source\repos\www\Shop.API\Shop.DAL\bin\Debug\net5.0\Shop.DAL.deps.json
+C:\Users\david\source\repos\www\Shop.API\Shop.DAL\bin\Debug\net5.0\Shop.DAL.runtimeconfig.json
+C:\Users\david\source\repos\www\Shop.API\Shop.DAL\bin\Debug\net5.0\Shop.DAL.runtimeconfig.dev.json
+C:\Users\david\source\repos\www\Shop.API\Shop.DAL\bin\Debug\net5.0\Shop.DAL.dll
+C:\Users\david\source\repos\www\Shop.API\Shop.DAL\bin\Debug\net5.0\Shop.DAL.pdb
+C:\Users\david\source\repos\www\Shop.API\Shop.DAL\obj\Debug\net5.0\Shop.DAL.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\www\Shop.API\Shop.DAL\obj\Debug\net5.0\Shop.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\www\Shop.API\Shop.DAL\obj\Debug\net5.0\Shop.DAL.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\www\Shop.API\Shop.DAL\obj\Debug\net5.0\Shop.DAL.AssemblyInfo.cs
+C:\Users\david\source\repos\www\Shop.API\Shop.DAL\obj\Debug\net5.0\Shop.DAL.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\www\Shop.API\Shop.DAL\obj\Debug\net5.0\Shop.DAL.dll
+C:\Users\david\source\repos\www\Shop.API\Shop.DAL\obj\Debug\net5.0\refint\Shop.DAL.dll
+C:\Users\david\source\repos\www\Shop.API\Shop.DAL\obj\Debug\net5.0\Shop.DAL.pdb
+C:\Users\david\source\repos\www\Shop.API\Shop.DAL\obj\Debug\net5.0\Shop.DAL.genruntimeconfig.cache
+C:\Users\david\source\repos\www\Shop.API\Shop.DAL\obj\Debug\net5.0\ref\Shop.DAL.dll
